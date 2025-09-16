@@ -1,6 +1,7 @@
-key(ctrl-shift-alt-t): 
+key(ctrl-shift-;): 
 	speech.disable()
 	sound.set_microphone("None")
-key(ctrl-alt-super-t): 
+key(ctrl-alt-;): 
 	speech.enable()
 	sound.set_microphone("System Default")
+
