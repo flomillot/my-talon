@@ -4,3 +4,4 @@ key(ctrl-shift-;):
 key(ctrl-alt-;): 
 	speech.enable()
 	sound.set_microphone("System Default")
+do it: key(ctrl-enter)
