@@ -16,7 +16,6 @@ go last: key(alt-shift-up)
 project last: key(ctrl-alt-[)
 project next: key(ctrl-alt-])
 rollback: key(ctrl-alt-z)
-save all: key(ctrl-s)
 patch create: key(alt-shift-p)
 patch apply: key(shift-p)
 
