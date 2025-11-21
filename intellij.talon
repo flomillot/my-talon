@@ -26,9 +26,13 @@ line move down: key(alt-shift-pagedown)
 line move up: key(alt-shift-pageup)
 open settings: key(ctrl-alt-s)
 refresh: key(ctrl-alt-y)
+target: 
+    key(alt-shift-1) 
+    key(1)
 
 # Override
 comment: key(ctrl-/)
 git push: key(ctrl-shift-k)
 copy that: key(ctrl-c)
 paste that: key(ctrl-v)
+cut that: key(ctrl-x)
