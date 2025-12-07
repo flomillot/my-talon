@@ -1,14 +1,14 @@
-key(ctrl-shift-;): 
+key(ctrl-shift-'): 
 	speech.disable()
 	sound.set_microphone("None")
-key(ctrl-shift-'): 
+key(alt-shift-'): 
 	mode.disable("sleep")
     mode.disable("command")
     mode.enable("dictation")
     user.code_clear_language_mode()
     user.gdb_disable()
 	sound.set_microphone("System Default")
-key(ctrl-alt-'): 
+key(alt-ctrl-'): 
 	mode.disable("sleep")
     mode.disable("dictation")
     mode.enable("command")
