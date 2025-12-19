@@ -5,6 +5,9 @@ settings():
     # Uncomment to enable dark mode for talon help menus
     imgui.dark_mode = true
 
+    # If `true`, use a hissing noise to scroll continuously
+    #user.mouse_enable_hiss_scroll = true
+
     # Set the amount to scroll up/down
     user.mouse_wheel_down_amount = 300
 
