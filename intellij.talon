@@ -30,6 +30,7 @@ refresh: key(ctrl-alt-y)
 target: 
     key(alt-shift-1) 
     key(1)
+toggle request: key(alt-0)
 
 # Override
 comment: key(ctrl-/)
