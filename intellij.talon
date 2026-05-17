@@ -38,7 +38,4 @@ toggle request: key(alt-0)
 # Override
 comment: key(ctrl-/)
 git push: key(ctrl-shift-k)
-copy that: key(ctrl-c)
-(paste | pace) (that | it): key(ctrl-v)
-cut that: key(ctrl-x)
 copy path: key(ctrl-alt-shift-c)
