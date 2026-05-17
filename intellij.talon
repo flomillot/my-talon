@@ -23,6 +23,7 @@ project next: key(ctrl-alt-])
 rollback: key(ctrl-alt-z)
 patch create: key(alt-shift-p)
 patch apply: key(ctrl-alt-shift-p)
+(delete | remove) line: key(ctrl-d)
 line move down: key(alt-shift-pagedown)
 line move up: key(alt-shift-pageup)
 settings: key(ctrl-alt-s)
@@ -30,6 +31,8 @@ refresh: key(ctrl-alt-y)
 target: 
     key(alt-shift-1) 
     key(1)
+toggle claude: key(ctrl-escape)
+toggle chat: key(alt-shift-4)
 toggle request: key(alt-0)
 
 # Override
