@@ -1,3 +1,4 @@
+# Talon
 key(ctrl-shift-'): 
 	speech.disable()
 	sound.set_microphone("None")
@@ -14,4 +15,12 @@ key(alt-ctrl-'):
     mode.enable("command")
 	sound.set_microphone("System Default")
 (do | go for) it: key(ctrl-enter)
+
+# Window
+window move right: key(super-shift-right)
+window move left: key(super-shift-left)
+window move down: key(super-shift-down)
+window move up: key(super-shift-up)
+
+# Other
 save it: key(ctrl-s)
